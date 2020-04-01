@@ -1,4 +1,4 @@
-# AdventureWorks: Stock clearance & brick and mortar stores
+# [T-SQL] AdventureWorks: Stock clearance & brick and mortar stores
 
 Academic Project for the course of **Relational and Non-Relational Databases**
 
